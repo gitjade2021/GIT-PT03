@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(to right, #E14D2A , #D800A6);
+    text-align: center;
+}
+
+h1 {
+    font-family: Poppins;
+}
+
+p {
+    font-family:Poppins;
+    font-size: px;
+    color: white;
+}
+
+mark {
+    background-color: #FFC23C;
+}
+
+b {
+    color: #A91079;
+}
+
+u {
+    font-style: italic;
+    color: #ffff04;
+}
